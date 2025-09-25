@@ -9,7 +9,7 @@ This course integrates every key topic in modern AI engineering: Data Engineerin
 
 ## 📚 Course Structure
 
-* **Duration** : 10 weeks
+* **Duration** : 15 weeks
 * **Format** : 2-hour weekly lectures + hands-on projects
 * **Focus** : Data Engineering for LLMs
 * **Final Deliverable** : Deployable AI research agent
